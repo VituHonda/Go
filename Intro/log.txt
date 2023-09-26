@@ -1,0 +1,3 @@
+17/02/2023 20:12:44https://www.alura.com.br -online: true
+17/02/2023 20:12:45https://www.caelum.com.br -online: true
+17/02/2023 20:12:45https://www.fiap.com.br -online: false
